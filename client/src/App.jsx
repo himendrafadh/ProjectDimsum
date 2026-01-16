@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
-      <h1>🥢 Warung Dimsum Himendra</h1>
+      <h1>🥢 Warung Dimsum napis </h1>
 
       {/* Tampilkan pesan loading jika data belum ada */}
       {dimsumList.length === 0 ? <p>Sedang memuat menu...</p> : null}
